@@ -7,3 +7,6 @@ git shortlog
 # Obtendo o que foi adicionado, ou o que foi modificado em um commit através do seu id
 git show <ID_COMMIT>
 
+# Antes de dar um commit, use o comando a seguir para dar uma última visualizada na modifição
+
+git diff
