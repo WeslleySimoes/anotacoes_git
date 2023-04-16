@@ -61,3 +61,4 @@ git add .
 # Se quisermos remover esses 3 arquivos do staging area, usando o comando 'git restore --staged .'
 
 git restore --staged .
+
