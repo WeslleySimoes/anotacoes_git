@@ -1,0 +1,4 @@
+https://mpdf.github.io/paging/page-size-orientation.html
+
+documentação do mpdf para gerar pdfs. Provavelmente irei utilizar no trampo para gerar laúdos automotivos.
+
