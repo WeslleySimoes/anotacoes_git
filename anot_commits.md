@@ -16,7 +16,7 @@ git diff
 
 # --soft  ->  vai voltar para um commit, e matar o commit feito, mas os arquivos vão estar no staging area
 
-# --mixed ->  vai voltar para um commit, e matar o commit feito, mas os arquivos vão estar antes staging area, vão estar por exemplo: modified
+# --mixed ->  vai voltar para um commit, e matar o commit feito, mas os arquivos vão estar antes staging area, vão estar por exemplo: modified ou untracked
 
 # --hard  ->  vai voltar para um commit, e matar o commit feito, e matar todos os arquivos modificados, ou adicionados, ou removidos no commit
 
