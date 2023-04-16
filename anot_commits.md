@@ -31,3 +31,6 @@ git reset --hard  <ID_COMMIT_ANTERIOR_AO_QUE_QUER_MUDAR>
 
 # -----------------------------------------------------------------
 
+# REMOVENDO UM GIT REMOTE ORIGIN
+
+git remote remove origin
