@@ -16,7 +16,7 @@ git push origin <NOME_BRANCH>
 
 # Sincronizando nossa branch criada no repositório local com o remoto
 
-git push --u origin <NOME_BRANCH>
+git push -u origin <NOME_BRANCH>
 
 # Sincronizando nossa branch remota e trazendo alterações para o nosso repositório local
 # OBS: Pode ocorrer de ter conflitos entre arquivos que possuem os mesmos códigos, cabe a você saber qual escolher

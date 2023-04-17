@@ -1,0 +1,22 @@
+// Exemplo de um arquivo composer.json
+{
+    "name": "weslley/software_php",
+    "type": "project",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "WeslleySimoes",
+            "email": "weslley_silvas@hotmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog" : ">=3.3.1",
+        "mpdf/mpdf" : ">=8.1"
+    },
+    "autoload":{
+        "psr-4":{
+            //Neste caso iremos adicionar ao nosso autoload todos os diretórios que tenham o namespace app
+            "app\\": ["app/"]
+        }
+    }
+}

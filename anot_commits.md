@@ -31,6 +31,6 @@ git reset --hard  <ID_COMMIT_ANTERIOR_AO_QUE_QUER_MUDAR>
 
 # -----------------------------------------------------------------
 
-# REMOVENDO UM GIT REMOTE ORIGIN
+# REMOVENDO UM GIT REMOTE ORIGIN (Vamos usar isto quando formos clonar e der errado, ai resstamos o caminho para o repositorio remoto)
 
 git remote remove origin
